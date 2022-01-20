@@ -1,0 +1,40 @@
+.ilkkutu{
+   background-color: #EEEE;
+    width:754px ;
+    height: 61px;
+    float:top;
+    margin-right: 0%;
+}
+
+.ikikutu{
+    width: 57.5%;
+    height: 76px;
+
+}
+
+.kutu1{
+    background-color:#7EE5DA;
+    width:248px;
+    height: 76px;
+    float:left;
+    margin-right:3px ;
+}
+
+.kutu2{
+    background-color:#70CCC2;
+    width:136px;
+    height: 76px;
+    float:left;
+    margin-right:3px;
+
+}
+
+.kutu3{
+    background-color:#62B3AA;
+    width:364px;    
+    height: 76px;
+    margin-left: 390px;
+    font-size: 14px;
+}
+
+
